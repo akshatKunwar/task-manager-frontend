@@ -1,0 +1,35 @@
+.task-item {
+    border: 1px solid #dee2e6;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .task-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .task-title {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .task-actions button {
+    margin-left: 10px;
+  }
+  
+  .task-description {
+    margin-top: 10px;
+    color: #6c757d;
+  }
+  
+  .task-due-date {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
